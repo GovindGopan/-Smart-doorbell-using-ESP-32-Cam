@@ -1,3 +1,6 @@
+## Circuit Diagram
+![CircuitDiagram](Doorbell%20circuit%20diagram.png)
+
 # Components used
 
 1. ESP 32 cam
